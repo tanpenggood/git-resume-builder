@@ -12,6 +12,14 @@ Extracts project experience from git commit history and generates quantified, va
 - **Output:** Structured markdown with project name, duration, role, tech stack, and key achievements
 - **Languages:** 中文 · English
 
+### [Git Release Report](./skills/git-release-report/)
+
+Analyzes git commits between two hashes to generate release reports. Identifies changed modules, features, scripts, and database changes for version releases.
+
+- **Trigger:** "发版报告" / "release report" / "changelog" / "版本报告"
+- **Output:** Structured release report with modules, features, scripts detection, and change statistics
+- **Languages:** 中文 · English
+
 ## Usage
 
 These skills are designed to be loaded into AI coding assistants (e.g., opencode, GitHub Copilot, etc.). Each skill in the `skills/` directory contains a `SKILL.md` file with the full instruction set.
