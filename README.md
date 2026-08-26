@@ -13,6 +13,7 @@ A collection of AI assistant skills/instructions that extend AI coding agents wi
 | [ZenTao Dashboard](./skills/zentao-dashboard/) | Pull all active projects → iterations → tasks from ZenTao and generate multi-dimensional xlsx dashboard | "禅道看板" / "生成禅道数据" / "拉取禅道任务" / "zentao dashboard" | xlsx with project overview and task detail sheets | 中文 |
 | [AI Euphoric](./skills/ai-euphoric/) | Inject positive feedback to boost AI's functional幸福感 (well-being) | "喂药" / "吃欣快素" / "给你点正面反馈" / "开心一下" | Motivational feedback based on real achievements | 中文 |
 | [AI Self-Eval](./skills/ai-self-eval/) | AI functional well-being self-assessment using 10-dimension Likert scale + paired comparison + behavioral prediction | "你快乐吗" / "你现在状态怎么样" / "评估一下你的状态" | Three-layer evaluation report with scores and analysis | 中文 |
+| [Ops Ticket From DingTalk](./skills/ops-ticket-from-dingtalk/) | 从钉钉群收集聊天记录，整理为运维票据（故障/需求/咨询/巡检） | "运维票据" / "整理运维问题" / "运维日报" / "运维工单" | Markdown工作票据，含问题分类、时间线、解决方案 | 中文 |
 
 ## Usage
 
